@@ -1,0 +1,13 @@
+.cal-btn {
+
+    display: flex;
+    height: 30px;
+   width: 30px;
+  background-color: beige;
+  text-align: center;
+  color: black;
+  margin: 5px;
+  padding: 5px;
+  }
+
+ 
