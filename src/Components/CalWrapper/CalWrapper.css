@@ -1,16 +1,61 @@
+.bt-name {
 
-
-.bt-name{
+    
     display: flex;
-    flex-direction: row;
-    width: 400px;
-    height: 150px;
- justify-content: space-around;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+   
+    margin-left: 40px;
+    
+    margin-top: 15px;
+    -webkit-flex-wrap: wrap;
+    
+    flex-wrap: wrap;
+   
+
+
+width :200px;
+
+height :50px;
+
+justify-content : space-around;
 }
-.op-name{
+
+.op-name {
+
+    
     display: flex;
-    flex-direction: row;
-    width: 500px;
-    height: 150px;
- justify-content: space-around;
+    margin-left: 40px;
+    margin-top: 120px;
+    
+    flex-wrap: wrap;
+
+
+
+    
+    width :200px;
+    
+    height :50px;
+    
+    justify-content : space-around;
+
+
+
+}
+
+.main-cal{
+
+border : 1px solid gray;
+
+width:300px;
+
+height:300px;
+
+margin:auto;
+
+margin-top: 10px;
+
+background-color: rgba(195, 206, 206, 0.148);
+
+
 }

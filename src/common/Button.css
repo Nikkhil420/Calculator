@@ -1,13 +1,25 @@
 .cal-btn {
 
-    display: flex;
-    height: 30px;
-   width: 30px;
-  background-color: gainsboro;
-  text-align: center;
-  color: black;
-  margin: 5px;
-  padding: 5px;
-  }
+
+
+        color:black;
+        background-color: rgba(243, 246, 240, 0.126) ;
+        width:45px;
+        height:32px;
+        margin:5px;
+        
+        border-radius: 3px;
+    
+    
+    
+    
+    }
+    
+    .cal-btn:hover {
+    
+    background-color: rgba(0, 0, 255, 0.294);
+    
+    }
+  
 
  
