@@ -4,13 +4,13 @@
     display: flex;
     flex-direction: row;
     width: 400px;
-    height: 50px;
+    height: 150px;
  justify-content: space-around;
 }
 .op-name{
     display: flex;
     flex-direction: row;
-    width: 200px;
-    height: 50px;
+    width: 500px;
+    height: 150px;
  justify-content: space-around;
 }
